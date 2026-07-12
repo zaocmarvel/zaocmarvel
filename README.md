@@ -4,7 +4,7 @@
 ---
 
 ### About Me
-I'm an Electronic and Electrical Engineering student transitioning into Machine Learning and AI. I believe in learning by building — every concept I study turns into a small project here.
+I'm an Electronic and Electrical Engineering student transitioning into Machine Learning and AI. I believe in learning by building, every concept I study turns into a small project here.
 
 ### Currently Learning
 - Working through **Google's Machine Learning Crash Course**, building a project for every core algorithm
