@@ -18,7 +18,7 @@ _(Updated as I complete each module)_
 | [logistic-regression](#) | Classification | 🔜 |
 | [neural-net-basics](#) | Neural Networks | 🔜 |
 
-### 🛠️ Tools & Tech
+### Tools & Tech
 
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
