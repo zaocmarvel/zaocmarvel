@@ -40,7 +40,7 @@ _(Updated as I complete each module)_
 
 
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 
 ![Zacchaeus's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaocmarvel&show_icons=true&theme=default)
@@ -52,7 +52,7 @@ _(Updated as I complete each module)_
 
 
 
-### 📫 Connect
+### Connect
 Open to connecting with other students and self-taught developers on a similar path.
 
 ---
