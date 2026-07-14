@@ -59,7 +59,7 @@ I'm an Electronic and Electrical Engineering student transitioning into Machine 
 
 
 ### Connect
-Open to connecting with other students and self-taught developers on a similar path — check out my public repos to see what I'm building.
+Open to connecting with other students and self-taught developers on a similar path, check out my public repos to see what I'm building.
 
 ---
 <p align="center"><i>This profile grows as I learn — check back for updates.</i></p>
